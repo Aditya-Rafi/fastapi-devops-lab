@@ -1,4 +1,4 @@
-# Lab DevOpsApp
+# FastAPI DevOps Lab
 
 Production-oriented FastAPI service used to demonstrate practical DevOps patterns:
 containerized application delivery, dependency health checks, reverse proxying,
